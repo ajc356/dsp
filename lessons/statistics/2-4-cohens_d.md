@@ -14,5 +14,5 @@ Pregnancy Length:
 
 
 
-The difference between average weight of first babies and non-first babies is relatively small, -0.089 which suggests first babies are maginally smaller than others.   The difference between average pregnancy length in first babies and non-first babies is also relatively small, 0.029 which suggest first babies have a marginally larger pregnancy length than others. 
+The difference between average weight of first babies and non-first babies is relatively small, -0.089 which suggests first babies are maginally smaller than others.   The difference between average pregnancy length in first babies and non-first babies is also relatively small, 0.029 which suggests first babies have a marginally longer pregnancy length than others. 
 
