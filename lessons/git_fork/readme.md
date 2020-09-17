@@ -57,5 +57,9 @@ Here's your first chance to practice this:
 
 What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emoji-cheat-sheet.com/).)
 
+<<<<<<< HEAD
 :dancers:
 
+=======
+:dancers:
+>>>>>>> 9613da2d676af8e5d4fded93ca4323f4369c1a15
