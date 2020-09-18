@@ -15,13 +15,12 @@ Practice re-writing code for BiasPmf function
 
 ```python
 def BiasPmf(pmf, label):
-    new_pmf = pmf.Copy(label = label)
-    
-    for x, p in pmf.Items():
-		new_pmf.Mult(x, x)
-
-		new_pmf.Normalize()
-		return new_pmf
+  new_pmf = pmf.Copy(label = label)
+  for x, p in pmf.Items():
+    new_pmf.Mult(x, x)
+  
+  new_pmf.Normalize()
+  return new_pmf
 ```
 Compute the 'biased' distribution as observed by respondents (probability associated with number of children in a family is 'biased' by the number of children in a family)
 
