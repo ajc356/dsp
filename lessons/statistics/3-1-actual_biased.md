@@ -6,7 +6,7 @@ Identify data to use
 resp = nsfg.ReadFemResp()
 ```
 
- Compute the distribution of children per family as it exists in the sample data. 
+ Compute the distribution of children per family as it exists in the sample data using Pmf. 
 
     children = resp.numkdhh
     actual_child_pmf = thinkstats2.Pmf(children, label='actual numkdhh')
@@ -22,7 +22,7 @@ def BiasPmf(pmf, label):
   new_pmf.Normalize()
   return new_pmf
 ```
-Compute the 'biased' distribution as observed by respondents (probability associated with number of children in a family is 'biased' by the number of children in a family)
+Compute the 'biased' distribution as observed by respondents (probability associated with number of children in a family is 'biased' by the number of children in a family) using BiasPMF function.
 
 ```
 biased_child_pmf = BiasPmf(actual_child_pmf, label = 'observed')
