@@ -47,11 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
-<<<<<<< HEAD
-Python 3 is what I've been using since I began learning python six months ago. 
-=======
->Python3 is what I have used since I first started learning Python six months ago. 
->>>>>>> 9613da2d676af8e5d4fded93ca4323f4369c1a15
+Python3 is what I have used since I first started learning Python six months ago. 
 
 ### Q2. Which Python Version Installed   
 
@@ -59,12 +55,4 @@ In the Terminal:
 
 `python3 --version`
 
-<<<<<<< HEAD
 Python 3.7.7
-=======
->Python 3.7.7
-
->>>>>>> 9613da2d676af8e5d4fded93ca4323f4369c1a15
- 
-
-
